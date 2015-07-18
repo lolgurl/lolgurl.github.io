@@ -1,0 +1,70 @@
+p{
+	color: pink;
+}
+h2{background-color: green;
+}
+li{
+	background-color: #05D1FA;
+}
+body{
+	font-family: "Trebuchet MS",Helvetica,sans-serif;
+	color: red;
+}
+header{
+	text-align: center;
+	background: #05D1FA;
+}
+#about{
+	background: #FFCA59;
+}
+.about{
+	background: blue;
+}
+.links{
+	background-color: orange;
+}
+.links h2{
+	background-color: orange;
+}
+.contacts{
+	text-align: center;
+	color: #FFF;
+	background: url("images/dark_embroidery.png");
+	background-repeat:none;
+}
+.contacts img{
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+}
+body{
+	background: url("images/chococat.png");
+	background-repeat: none;
+	background-attachment: fixed;
+	background-position: center;
+	border: 3px solid #fff;
+	border-radius: 50%;
+	padding: 10px;
+}
+.contacts img:hover {
+	opacity: 0.5;
+}
+ul.websites {
+	padding: 0;
+}
+ul.websites li{
+	list-style: none;
+	display: inline-block;
+}
+.websites a{
+	background: #38A88F;
+	padding: 10px 20px;
+	color: #fff;
+	text-decoration: none;
+	border-radius: 5px;
+	font-size: 24px;
+	display: block;
+}
+.websites a:hover{
+	background: #666;
+}
